@@ -134,12 +134,12 @@ export const Auth: React.FC<AuthProps> = ({ onLogin }) => {
            <div className="relative z-10 mt-12 pt-8 border-t border-white/20">
               <div className="flex gap-6 text-xs font-medium text-blue-200">
                  <div className="flex items-center gap-2">
-                   <div className="w-1.5 h-1.5 rounded-full bg-green-400 shadow-[0_0_8px_rgba(74,222,128,0.5)]"></div> 
-                   System Online
+                   {/* <div className="w-1.5 h-1.5 rounded-full bg-green-400 shadow-[0_0_8px_rgba(74,222,128,0.5)]"></div> 
+                   System Online */}
                  </div>
                  <div className="flex items-center gap-2">
-                   <div className="w-1.5 h-1.5 rounded-full bg-yellow-400"></div> 
-                   MongoDB Ready
+                   {/* <div className="w-1.5 h-1.5 rounded-full bg-yellow-400"></div> 
+                   MongoDB Ready */}
                  </div>
               </div>
            </div>
