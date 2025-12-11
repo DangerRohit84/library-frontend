@@ -1,0 +1,5 @@
+{
+  "name": "LibBook - Smart Library Seat Booking",
+  "description": "A student-focused library seat reservation system with real-time availability, fair usage policies, and an AI-powered assistant.",
+  "requestFramePermissions": []
+}
